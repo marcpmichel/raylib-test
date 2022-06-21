@@ -1,0 +1,13 @@
+{
+	"authors": [
+		"Marc Michel"
+	],
+	"copyright": "Copyright © 2022, Marc Michel",
+	"dependencies": {
+		"raylib-d": "~>4.0.1"
+	},
+	"description": "Testing raylib",
+	"license": "proprietary",
+	"name": "raylib-test",
+	"libs": [ "raylib" ]
+}

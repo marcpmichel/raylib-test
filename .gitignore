@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/raylib-test
+raylib-test.so
+raylib-test.dylib
+raylib-test.dll
+raylib-test.a
+raylib-test.lib
+raylib-test-test-*
+*.exe
+*.o
+*.obj
+*.lst
